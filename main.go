@@ -3,7 +3,8 @@ package main
 import (
     "time"
     "github.com/gofiber/fiber/v2"
-    "github.com/xcliu/Go-Cache-API/middleware"
+    "github.com/xcliu-ca/Go-Cache-API/middleware"
+    "github.com/xcliu-ca/Go-Cache-API/routes"
     "github.com/patrickmn/go-cache"
 )
 
